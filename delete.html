@@ -28,9 +28,9 @@
         }
         function deleteData(){
             var token = "90937652|-31949267757976945|90952919";
-            var dbname = "Emp";
-            var relationName = "Emp_data";
-            var id = parseInt(document.getElementById("id").value);
+            var dbname = "CourseData";
+            var relationName = "Candidate-Data";
+            var id = parseInt(document.getElementById("rollno").value);
 
             var reqString = createREMOVERecordRequest(token, dbname, relationName, roll);
             alert(reqString);
