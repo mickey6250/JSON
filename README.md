@@ -17,4 +17,6 @@
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Screenshots:
-![Dash]https://github.com/mickey6250/JSON/blob/main/Screenshot%20(465).
+![Screenshot (465)](https://user-images.githubusercontent.com/81157019/198843501-9086f5ff-ad2e-4463-9613-8021571a197b.png)
+![Screenshot (466)](https://user-images.githubusercontent.com/81157019/198843505-aec05626-edb6-4c7d-b7df-503afa30e3b4.png)
+
