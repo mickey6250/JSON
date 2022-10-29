@@ -18,8 +18,7 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
-
+file://localhost/C:/Users/DELL/Pictures/Screenshots/Screenshot%20(465).png
 ![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
 
 ![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
