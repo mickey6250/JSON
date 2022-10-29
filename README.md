@@ -17,8 +17,3 @@
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Screenshots:
-
-file://localhost/C:/Users/DELL/Pictures/Screenshots/Screenshot%20(465).png
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
-
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
